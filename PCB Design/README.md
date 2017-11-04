@@ -1,4 +1,4 @@
-#PCB Design
+# PCB Design
 
 The schematic and PCB design files for an MSP430FR2311IPW16R breakout board were designed in order to create a 
 printed circuit board with headers that give direct access to the IC chip leads.
@@ -11,7 +11,7 @@ The 16 pin MSP430FR2311 chip was used in this design as it provides enough pins 
 
 The dimensions of the PCB are 0.975 inches in length, 0.95 inches in width, and 0.039 inches in height. The board is 2-sided with an internal ground plane and is within the limitations of the machinery used to create it. In order to make the design work well, the ground plane was broken for three of the connections which does not affect the purpose of the plane.
 
-###Bill of Materials
+### Bill of Materials
 | RefDes      | Name     	   | Value | Quantity |
 | ----------- | ------------------ | ----- | -------- | 
 | C1          | CAP_0805 	   | 100nF | 1 |
